@@ -4,7 +4,7 @@ This program is to convert the inputted temperature to other units and display t
 
 Created on Tue Aug  6 15:15:20 2024
 
-@author: ajayk
+@author: Ajaykrishna28
 """
 
 def Celsius_to_Kelvin(temperature): #this converts Celsius to Kelvin
